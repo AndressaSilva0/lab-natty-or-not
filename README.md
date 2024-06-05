@@ -25,7 +25,7 @@
 # 🚀 Introdução
 Bem-vindo ao projeto "**Desenhos Artísticos com IA**". Neste projeto, exploramos a fascinante interseção entre arte e inteligência artificial. Utilizando tecnologias avançadas como **DALL-E**, **MidJourney**, e **Leonardo.AI**, criamos obras de arte que não só impressionam pelo seu realismo e detalhe, mas também desafiam nossas noções tradicionais de criatividade e originalidade. Este projeto é parte do **Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3** da [Digital Innovation One (DIO)](https://www.linkedin.com/school/dio-makethechange/), e busca demonstrar o poder transformador da IA no campo das artes visuais.
 
-## 📒 Descição do Projeto
+## 📒 Descrição do Projeto
 
 O projeto "**Desenhos Artísticos com IA**" explora o uso de tecnologias de inteligência artificial para criar obras de arte impressionantes e inovadoras. Este projeto faz parte do **Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3** da [DigitalInnovationOne (DIO)](https://www.linkedin.com/school/dio-makethechange/). Através do uso de ferramentas avançadas como **DALL-E**, **MidJourney** e **Leonardo.AI**, desenvolvemos uma série de desenhos artísticos que desafiam as fronteiras entre a criatividade humana e a inteligência artificial.
 
